@@ -1,0 +1,6 @@
+AWS stands for amazon web services which one of cloud service platform provides over around 200 services.The Amazon stands as one of the best cloud service platform compared to
+other cloud service platform it shares 80% of cloud domain in market share and thereafter Microsoft Auzure and Google cloud platform and alibaba cloud are most popular in cloud 
+domain. AWS has great edge compared to the other cloud platfrom is the Availability and the network is spread among 245 countries and it also have the Regional Zone and Availabilty 
+Zones. It also have the edge locations.the Availabilty Rate is much high than any other cloud service platform and average Availabilty of the service is 99.99% and the failure rate
+is very low like 0.01%. AWS allows the client to communicate within the Availability Zones through Intranet with very low latency and AWS allows to communicate throught other regional
+Zones through the HighSpeed Internet.
